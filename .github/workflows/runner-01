@@ -1,4 +1,4 @@
-name: RPD
+name: BEN
 
 on:
   workflow_dispatch:
